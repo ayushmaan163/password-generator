@@ -68,7 +68,7 @@ body {
   cursor: pointer;
 }
 
-@media (max-width: 800px) {
+@media screen (max-width: 800px) {
   .container h1 {
     font-size: 6vw;
   }
